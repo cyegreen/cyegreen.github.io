@@ -1,123 +1,66 @@
 ---
 layout: default
+title: "Welcome to My SOC Analyst Portfolio"
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# 🔍 Welcome to My Cybersecurity Portfolio
 
-[Link to another page](./another-page.html).
+I am **Eduard Burcea**, an aspiring **SOC Analyst** with expertise in **threat detection, security monitoring, incident response, and SIEM analysis**. I have hands-on experience in **analysing security events, investigating alerts, and mitigating cyber threats**.
 
-There should be whitespace between paragraphs.
+## 🛡️ About Me
+👨‍💻 Passionate about **security operations**, **log analysis**, and **incident response**  
+🔎 Skilled in **Splunk, ELK (Elasticsearch, Logstash, Kibana), Suricata, Wireshark**  
+📜 **Certifications**: **TCM's PSAA, Google Cybersecurity and IT support** 
+🏆 Active participant in **CTFs**, **SOC exercises**, and **threat-hunting challenges**  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 🚀 Skills & Technologies
+- **SIEM & Log Analysis**: Splunk & Elastic Stack
+- **Threat Intelligence**: OSINT, MITRE ATT&CK & MISP
+- **Incident Response**: Cyber Kill Chain, SOC Playbooks, Triage
+- **Network Security**: Wireshark, Zeek, IDS/IPS (Snort, Suricata)
+- **Endpoint Security**: EDR/XDR tools (CrowdStrike, SentinelOne)
+- **Scripting & Automation**: Python, PowerShell, Bash
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## 🔥 Cybersecurity Projects & Labs
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### **1️⃣ SIEM Threat Detection - Splunk Use Case**
+🔹 **Tools Used:** Splunk, Sysmon, Windows Event Logs  
+🔹 **Summary:** Created custom detection rules to identify **malicious PowerShell execution, brute-force attacks, and lateral movement** in a Windows environment.  
 
-### Header 3
+📌 [View Project Details](projects.md#siem-threat-detection)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### **2️⃣ Incident Response - Malware Analysis Lab**
+🔹 **Tools Used:** Wireshark, Volatility, Process Hacker  
+🔹 **Summary:** Investigated a **ransomware-infected system**, extracted IoCs, and created an **incident response playbook** for containment and eradication.
 
-#### Header 4
+📌 [Read Full Report](projects.md#malware-analysis-lab)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+### **3️⃣ CTF Challenges & Blue Team Labs**
+🔹 Platforms: **TryHackMe (SOC Level 1, Blue Team Labs), Hack The Box (Forensics, Threat Hunting)**  
+🔹 **Summary:** Completed **live attack simulations**, analyzed **malicious traffic**, and built **detection rules** for APT-like attacks.  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+📌 [Check My Write-Ups](projects.md#ctf-challenges)
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## 🎯 My Blog & Security Write-Ups
+I document my **incident response techniques, SIEM queries, and blue team strategies** in my blog:
+📖 **[Visit My Cybersecurity Blog](blog.md)**  
 
-### There's a horizontal rule below this.
+---
 
-* * *
+## 📬 Contact Me
+📧 Email: [your.email@example.com](mailto:eduardburcea@proton.me)  
+🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/eduardburcea)  
+🐙 GitHub: [github.com/yourgithubusername](https://github.com/cyegreen)  
+📜 TryHackMe: [tryhackme.com/p/yourusername](https://tryhackme.com/p/khenex)  
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
