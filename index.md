@@ -58,9 +58,9 @@ I document my **incident response techniques, SIEM queries, and blue team strate
 ---
 
 ## 📬 Contact Me
-📧 Email: [your.email@example.com](mailto:eduardburcea@proton.me)  
-🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/eduardburcea)  
-🐙 GitHub: [github.com/yourgithubusername](https://github.com/cyegreen)  
-📜 TryHackMe: [tryhackme.com/p/yourusername](https://tryhackme.com/p/khenex)  
+📧 Email: [eduardburcea@proton.me](mailto:eduardburcea@proton.me)  
+🔗 LinkedIn: [linkedin.com/in/eduardburcea](https://linkedin.com/in/eduardburcea)  
+🐙 GitHub: [github.com/cyegreen](https://github.com/cyegreen)  
+📜 TryHackMe: [tryhackme.com/p/khenex](https://tryhackme.com/p/khenex)  
 
 ---
