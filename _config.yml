@@ -1,5 +1,20 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: "Eduard Burcea - Cybersecurity Portfolio"
+description: "Showcasing my Cybersecurity Projects, Labs, and CTF Challenges."
+show_downloads: false
+url: "https://cyegreen.github.io/"
 theme: jekyll-theme-hacker
+
+# Social Media Links
+github_username: "cyegreen"
+linkedin_username: "eduardburcea"
+twitter_username: "cyegreen_"
+
+# Google Analytics
+google_analytics: ""
+
+# Navigation Links
+header_pages:
+  - index.md
+  - projects.md
+  - contact.md
+
