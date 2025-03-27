@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Cybersecurity Blog"
+title: Writeups
 ---
 
-# 📝 Cybersecurity Blog - Sample
+# 📝 Cybersecurity - Sample
 
-Welcome to my **cybersecurity blog**! Here, I share insights on **SOC operations, SIEM queries, log analysis, incident response, and CTF write-ups**.  
+Welcome to my **cybersecurity writeups**! Here, I share insights on **SOC operations, SIEM queries, log analysis, incident response, and CTF write-ups**.  
 
-## 📚 Latest Blog Posts
+## 📚 Latest Posts
 
 ### 🔍 **1️⃣ How to Detect Brute-Force Attacks in Splunk**
 📅 **Published:** March 10, 2025  
