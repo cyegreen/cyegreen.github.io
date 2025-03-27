@@ -1,5 +1,5 @@
-title: "Eduard Burcea - Cybersecurity Portfolio"
-description: "Showcasing my Cybersecurity Projects, Labs, and CTF Challenges."
+title: "Eduard Burcea | Cybersecurity Portfolio"
+description: "Cybersecurity projects, writeups, and thoughts from an aspiring cybersecdurity professional."
 show_downloads: false
 url: "https://cyegreen.github.io/"
 theme: jekyll-theme-hacker
@@ -16,5 +16,5 @@ google_analytics: ""
 header_pages:
   - index.md
   - projects.md
-  - contact.md
-
+  - writeups.md
+  - about.md
