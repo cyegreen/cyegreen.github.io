@@ -5,7 +5,7 @@ title: Home
 
 # 👋 Welcome to My Cybersecurity Portfolio
 
-Hi, I'm **[Eduard Burcea]**, an aspiring **Cybersecurity Analyst** dedicated to building robust defenses and proactively mitigating cyber threats.
+Hi, I'm **Eduard Burcea**, an aspiring **Cybersecurity Analyst** dedicated to building robust defenses and proactively mitigating cyber threats.
 
 This portfolio showcases my hands-on **projects**, detailed **writeups**, and the diverse **skills** I've cultivated through industry-recognised courses and certifications, practical experience, blue team simulations, and continuous learning in the realm of cybersecurity.
 
