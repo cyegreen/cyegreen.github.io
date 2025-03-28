@@ -5,57 +5,69 @@ title: Home
 
 # 👋 Welcome to My Cybersecurity Portfolio
 
-Hi, I'm **Eduard Burcea**, an aspiring **Cybersecurity Analyst** dedicated to building robust defenses and proactively mitigating cyber threats.
+Hi, I’m **Eduard Burcea**, a cybersecurity analyst focused on building robust defences, understanding adversary behavior, and continuously leveling up through hands-on learning.
 
-This portfolio showcases my hands-on **projects**, detailed **writeups**, and the diverse **skills** I've cultivated through industry-recognised courses and certifications, practical experience, blue team simulations, and continuous learning in the realm of cybersecurity.
+This site showcases my most relevant **projects**, **technical writeups**, and **core skills**—developed through lab environments, self-guided research, and industry-recognized certifications.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm driven by a passion for technology and cybersecurity, with a particular focus on becoming a highly effective **Blue Teamer**. My goal is to leverage technical expertise, deep understanding of IT systmes, security frameworks, tools, adversarial tactics, methodologies to strengthen security posture of organisations. And keeping up with new technologies that reshape AI, Quantum and blockchain that reshape the indutsry. 
+I specialize in blue team operations, with a strong foundation in IT systems, detection engineering, and threat analysis. My approach combines hands-on technical work with a deep understanding of attacker techniques—because **to defend well, you have to think like the adversary**.
 
-💡 My philosophy is that **effective defense requires an attacker's mindset and hands-on skills**. I actively explore red team tools and techniques to enhance my ability to anticipate threats, refine detection strategies, and improve incident response capabilities. I am active on TryHackMe, CyberDefenders and Blueteamlabs, Also an student of TCM Academy where I explore advance topics like Malware Analysis and Ethical Hacking.
-
-🛠️ My learning environment includes a dedicated **home lab** where I simulate real-world scenarios. I experiment with log management (forwarding, aggregation), SIEM dashboard creation, Intrusion Detection/Prevention System (IDS/IPS) configuration, and malware analysis workflows to gain practical insights.
+🔍 I actively study red team tools and tactics to sharpen my ability to anticipate threats, craft detection logic, and improve response capabilities. I'm active on platforms like **TryHackMe**, **CyberDefenders**, and **BlueTeamLabs**, and currently advancing my skills in **Malware Analysis** and **Ethical Hacking** through **TCM Academy**.
 
 ---
 
-## 📜 Certifications & Skills
+## 📜 Certifications & Learning
 
-### 🧾 Certifications & Learning
-- Practical SOC Analyst Associate *(TCM Security, Issued on: [02.2025].)*
-- TryHackMe SOC L1 Path *(In Progress: 80%.)*
-- Google Cybersecurity *(Google, Issued on: [05.2024].)*
-- Google IT Support Specialization *(Google, Issued on: [11.2023].)* 
-- CompTIA Network + and Security + *(In Progress: 20%.)*
+- **Practical SOC Analyst Associate** – *TCM Security*  
+  *Issued: February 2025*
 
-### 🛠️ Skills
-- **Defensive Tools:** Proficient in Splunk (searching, dashboards, alerts), Wireshark (packet analysis), Zeek (network security monitoring), ELK Stack (Elasticsearch, Logstash, Kibana), Velociraptor (endpoint detection and response)
-- **Log Analysis:** Expertise in analyzing Windows Event Logs, Sysmon data, Apache access/error logs, SSH logs, and Linux authentication logs
-- **Detection & Response:** Skilled in threat hunting methodologies, developing correlation rules, identifying Indicators of Compromise (IOCs), and performing timeline analysis
-- **Networking:** Solid understanding of TCP/IP protocols, subnetting, packet dissection, and firewall rule sets
-- **Operating Systems:** Experienced with Linux (Kali Linux, Ubuntu Server/Desktop) and Windows (Client and Server environments)
+- **TryHackMe: SOC Level 1 Learning Path**  
+  *In Progress – 80% Complete*
+
+- **Google Cybersecurity Professional Certificate** – *Google / Coursera*  
+  *Issued: May 2024*
+
+- **Google IT Support Specialization** – *Google / Coursera*  
+  *Issued: November 2023*
+
+- **CompTIA Network+ & Security+**  
+  *In Progress – 20% Complete*
+
+---
+
+## 🛠️ Core Skills & Tools
+
+- **Network & Packet Analysis** – Solid understanding of TCP/IP, DNS, VPNs, proxies, and common protocols. Skilled with Wireshark, tcpdump, and Snort for traffic inspection and detection.
+
+- **Endpoint Security & Log Analysis** – Experience analysing Windows logs using Event Viewer and Sysmon, and Linux logs (including audit logs) using native tools. Familiar with Sysinternals and Wazuh for enhanced endpoint visibility.
+
+- **SIEM & Detection** – Proficient in using Splunk and the Elastic Stack for log ingestion, querying (SPL/KQL), creating dashboards, and building correlation rules for threat detection.
+
+- **Digital Forensics** – Hands-on with memory forensics (Volatility), artifact extraction (KAPE), and forensic imaging (FTK Imager).
+
+- **Threat Intelligence & Incident Response** – Experienced with frameworks like MITRE ATT&CK, the Cyber Kill Chain, and Pyramid of Pain. Familiar with IR playbooks and analysing phishing emails and malicious attachments.
 
 ---
 
 ## 📂 [Projects](./projects.md)
 
 Explore my projects, which include:
-- Building a Phishing and Network Analysis Lab.
-- SOC Home Lab simulating enterpise environment and simulating real-world attacks and incident response.
 
-These projects demonstrate my ability to apply theoretical knowledge to practical cybersecurity challenges and simulate real-world SOC workflows.
+- **Phishing Analysis Lab** *(Coming Soon)*  
+- **SOC Home Lab** simulating an enterprise environment, including real-world attacks and incident response scenarios *(Coming Soon)*
 
 ---
 
 ## 🧠 [Writeups](./writeups.md)
 
 Delve into my technical writeups, covering topics such as:
-- TryHackMe Wireshark Rooms
-- TryHAckMe CTFs
 
-Each writeup reflects my learning process, problem-solving skills, and ability to articulate technical concepts clearly.
+- **TryHackMe Rooms** *(Coming Soon)*  
+- **CyberRange Labs** *(Coming Soon)*  
+- **BlueTeamLabs Challenges** *(Coming Soon)*
 
 ---
 
@@ -67,6 +79,4 @@ Each writeup reflects my learning process, problem-solving skills, and ability t
 
 I'm always eager to connect with cybersecurity professionals and discuss opportunities!
 
-*Thanks for visiting — I’m always learning, building, and sharing.*
-
----
+*Thanks for visiting — I’m always learning, building, and sharing.* 🔐
