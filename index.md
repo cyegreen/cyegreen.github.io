@@ -71,6 +71,15 @@ Delve into my technical writeups, covering topics such as:
 
 ---
 
+## 📗 [Coursework](coursework.md)
+
+See my coursework from the various courses I have took.
+- **Install & Configure Ubuntu Desktop and Server**
+- **Install & Configure Windows Desktop and Server**
+- **Ticketing Systemm with Docker and Peppermint**
+- **Active Directory Lab**
+- **Splunk Server** 
+
 ## 🔗 Connect with Me
 
 📧 Email: [eduardburcea@proton.me](mailto:eduardburcea@proton.me)  
