@@ -19,13 +19,15 @@ This page highlights key courses, learning paths, and certifications I’ve comp
 
 ## Install and Configure Ubuntu Desktop (Virtual Box)
 
-### Learning & Coursework from TCM's Practical Help Desk Course.
-
-### 🔧 Technical Skills Developed
+---
 
 ## Install and Configure Ubuntu Server
 
+---
+
 ## Bash Scripting
+
+---
 
 ## PowerShell Power User
 
